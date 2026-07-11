@@ -11,3 +11,5 @@ DSP32-Core is a small (4cm x 2cm) audio development board based on the ESP32-S3.
 + up to 15 GPIO pins
 + PCM1808 ADC
 + PCM5102 DAC.
+# Pinout
+![](https://github.com/Fihdi/DSP32-CORE/blob/main/DSP32-CORE-Pinout.png?raw=true)
