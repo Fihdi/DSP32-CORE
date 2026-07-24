@@ -20,7 +20,7 @@
 "U1","1","PCM5102","","","","Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm","http://www.ti.com/lit/ds/symlink/pcm5102.pdf"
 "U2","1","ESP32-S3","","","","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm","https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf"
 "U3","1","AMS1117-3.3","","","","Package_TO_SOT_SMD:SOT-89-3","http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-"U101","1","W25Q128JVS","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
+"U101","1","W25Q128JVS","","","","Package_SO:SOIC-8_5.3x5.3mm_P1.27mm","https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
 "U102","1","PCM1808","","","","Package_SO:TSSOP-14_4.4x5mm_P0.65mm",""
 "U104","1","MC78L05_SOT89","","","","Package_TO_SOT_SMD:SOT-89-3","https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF"
 "Y1","1","40MHz","","","","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","~"
