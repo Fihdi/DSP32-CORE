@@ -13,3 +13,7 @@ DSP32-Core is a small (4cm x 2cm) audio development board based on the ESP32-S3.
 + PCM5102 DAC.
 # Pinout
 ![](https://github.com/Fihdi/DSP32-CORE/blob/main/DSP32-CORE-Pinout.png?raw=true)
+
+PCB fabrication sponsored by [PCBWay](https://pcbway.com). Their excellent PCB assembly service allows the DSP32-CORE to be produced in with every component perfectly soldered. Simply upload the production files like gerbers, position and BOM files and receive your fully assembled audio development board. High PCB quality and good customer service throughout the process makes PCBWay a reliable partner.
+
+![](https://github.com/Fihdi/Eurorack/blob/main/PCBWay-Logo.png?raw=true)
